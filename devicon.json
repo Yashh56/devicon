@@ -8648,10 +8648,11 @@
         ],
         "versions": {
             "svg": [
-                "original-wordmark",
-                "plain-wordmark"
+                "original",
+                "original-wordmark"
             ],
             "font": [
+                "original",
                 "plain-wordmark"
             ]
         },
